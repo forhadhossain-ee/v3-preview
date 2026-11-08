@@ -62,3 +62,11 @@ img{background:#e9ede6}
 .next-evidence h2{font:700 clamp(26px,4vw,38px)/1.15 var(--display);letter-spacing:-.04em;color:var(--forest);margin:15px 0}
 .next-evidence>p:last-child{max-width:720px;font-size:13px;line-height:1.9;color:var(--muted)}
 @media(max-width:640px){.hero{min-height:0}.credential-list,.capability-grid{grid-template-columns:1fr}.credential-list>div{padding:13px 0}.capability-grid article{min-height:0;padding:21px}.next-evidence{padding:23px;margin-top:44px}.archive-item>div{padding-top:0}}
+
+
+/* Final polish: text contrast and academic timeline */
+.eyebrow,.tag,.section-label span:first-child,.signal small,.credential-list>div>span,.capability-grid article>span{color:#896737}
+.secondary-education{margin-top:26px;padding-top:20px;border-top:1px solid #cdd5ca}
+.secondary-education h3{font:700 18px var(--display);color:var(--forest);margin:8px 0 2px}
+.secondary-education p{font-size:12px;color:var(--muted);margin:0}
+@media(max-width:640px){.secondary-education{margin-top:20px}}
