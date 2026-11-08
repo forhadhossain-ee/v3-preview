@@ -6,10 +6,12 @@ https://forhadhossain-ee.github.io/v3-preview/
 The live site lives in a separate repository and is never affected by changes here.
 
 ## Files
-- `index.html` — homepage
-- `projects.html` — project archive
-- `css/style.css`, `js/script.js` — design system
-- `.nojekyll` — required for GitHub Pages to serve this folder
+- `index.html` â€” homepage
+- `projects.html` â€” project archive
+- `css/style.css`, `js/script.js` â€” design system
+- `.nojekyll` â€” required for GitHub Pages to serve this folder
 
 ## Deploy
 Every push to `main` deploys automatically via GitHub Actions.
+
+Preview URL: https://forhadhossain-ee.github.io/v3-preview/
